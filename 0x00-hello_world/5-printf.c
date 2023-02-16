@@ -5,6 +5,6 @@
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome i sa piece of art,\n")
-		return (0);
+printf("with proper grammar, but the outcome i sa piece of art,\n")
+return (0);
 }
